@@ -9,7 +9,7 @@
 
 # Screenshots
 
-![](Screenshots\myblog-bloglist.JPG)
-![](Screenshots\myblog-blogdetail.JPG)
-![](Screenshots\myblog-create.JPG)
-![](Screenshots\myblog-updateblog.JPG)
+![](Screenshots/myblog-bloglist.JPG)
+![](Screenshots/myblog-blogdetail.JPG)
+![](Screenshots/myblog-create.JPG)
+![](Screenshots/myblog-updateblog.JPG)
