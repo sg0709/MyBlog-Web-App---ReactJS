@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Lorem Ipsum is simply dummy text",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "classical Latin literature",
+      "id": 1
+    },
+    {
+      "title": "Do you know what a blog is?",
+      "body": "A blog (a shortened version of “weblog”) is an online journal or informational website displaying information in reverse chronological order, with the latest posts appearing first, at the top. It is a platform where a writer or a group of writers share their views on an individual subject.",
+      "author": "Sarthak",
+      "id": 2
+    },
+    {
+      "title": "React",
+      "body": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+      "author": "Sarthak",
+      "id": 3
+    }
+  ]
+}
